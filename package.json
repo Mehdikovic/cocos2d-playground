@@ -1,0 +1,11 @@
+{
+  "name": "Test2d_1",
+  "uuid": "2564ec60-9331-402a-8f11-f813ddb3ca62",
+  "version": "3.5.0",
+  "creator": {
+    "version": "3.5.0"
+  },
+  "dependencies": {
+    "web3": "^1.7.3"
+  }
+}
